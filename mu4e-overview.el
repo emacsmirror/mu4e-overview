@@ -6,7 +6,7 @@
 ;; Keywords: mail, tools
 ;; Version: 0.5.0
 ;; Homepage: https://github.com/mkcms/mu4e-overview
-;; Package-Requires: ((emacs "26"))
+;; Package-Requires: ((emacs "28"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
